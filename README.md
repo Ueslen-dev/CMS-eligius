@@ -2,8 +2,8 @@
 
 ## About project / Sobre o projeto
 
-Sistema de gerenciamento de conteúdo desenvolvido para uso interno da empresa Eligius, um aplicativo como o foco gerenciar conteúdos de páginas de destino.<br/>
-Content management system developed for internal use by the company Eligius, an application as the focus to manage content of landing pages.
+Sistema de gerenciamento de conteúdos desenvolvido como foco em gerenciar conteúdos de landing pages.<br/>
+Content management system designed to focus on managing your landing page content.
 
 ## Features / Funcionalidades
 - Creating multiple sections / Criação de múltiplas seções
@@ -11,5 +11,5 @@ Content management system developed for internal use by the company Eligius, an 
 - User management / Gerenciamento de usuários
 - Integrated with TinyMCE / Integrado com TinyMCE
 
-* The application is under development<br/>
-* A aplicação se encontra em desenvolvimento
+The application is under development<br/>
+A aplicação se encontra em desenvolvimento
